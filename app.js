@@ -26,3 +26,4 @@ btn.addEventListener('click', () => {
     quote.innerText = quotes[random].quote;
     person.innerText = quotes[random].person;
 })
+
